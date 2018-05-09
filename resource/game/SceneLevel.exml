@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SceneLevelSkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="16344881814" ></w:Config>
+	<e:Scroller width="640" height="1136" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Group anchorOffsetX="0" width="640" anchorOffsetY="0" height="1136"/>
+	</e:Scroller>
+</e:Skin>

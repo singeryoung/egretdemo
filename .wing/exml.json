@@ -1,0 +1,17 @@
+{
+    "163436481de": {
+        "path": "game\\SceneBegin.ts",
+        "class": "SceneBegin",
+        "parentPath": ""
+    },
+    "163438f185e": {
+        "path": "game\\GameSetting.ts",
+        "class": "GameSetting",
+        "parentPath": ""
+    },
+    "16344881814": {
+        "path": "game\\SceneLevel.ts",
+        "class": "SceneLevel",
+        "parentPath": ""
+    }
+}
